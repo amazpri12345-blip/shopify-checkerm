@@ -17,7 +17,7 @@ HISTORY_LIMIT = int(os.getenv("HISTORY_LIMIT", "100"))
 REQUEST_TIMEOUT = int(os.getenv("REQUEST_TIMEOUT", "10"))
 
 if not BOT_TOKEN:
-    raise RuntimeError("Set BOT_TOKEN environment variable first.")
+    raise RuntimeError("8186239066:AAHAEI3fE1WFWyaSsgX0lrp1BSRwmrP_bOE")
 
 
 def fetch_history(limit=HISTORY_LIMIT):
