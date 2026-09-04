@@ -12,7 +12,7 @@ from telegram.ext import (
     filters,
 )
 
-BOT_TOKEN = os.getenv("8791596277:AAFzY7QrJ5_qO55kU6hVsDewIBGdDU2LPoc")
+BOT_TOKEN = os.getenv("8791596277:AAGNYOuh34OeBa-fVNwmmyJN0p4oVFKLBX4")
 URL_REGEX = re.compile(r"https?://\S+")
 
 
